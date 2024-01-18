@@ -91,3 +91,9 @@ margin-bottom: 30px;
         width: 100%;
  }
 }
+.footer-col h5{
+    color: beige ;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 10px;
+}
